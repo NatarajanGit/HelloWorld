@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World Java !!!");
 		System.out.println("Hello World Java in Git Master!!!");
+		System.out.println("Hello World Java in Git Master Git Fetch!!!");
 		
 	}
 
